@@ -1,3 +1,6 @@
+## 🗺️ Automated Remediation Workflow
+![Remediation Workflow](architecture-diagram.png)
+
 # CloudSentinel-S3: Real-Time Automated Security Remediation 🛡️☁️
 
 ## 📝 Project Overview
